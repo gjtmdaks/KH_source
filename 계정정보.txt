@@ -1,0 +1,18 @@
+gjtmdaks1234@naver.com
+Herjinsu1344!!
+
+sqlplus
+
+관리자계정
+sys as sysdba
+oracle
+
+사용자계정
+kh
+kh
+
+실습용계정
+WORKBOOK
+WORKBOOK
+
+IPv4 주소 . . . . . . . . . : 192.168.10.25
