@@ -16,3 +16,65 @@ WORKBOOK
 WORKBOOK
 
 IPv4 주소 . . . . . . . . . : 192.168.10.25
+
+https://chatgpt.com/share/69bca092-4ee0-8001-af74-e6ce605e1380
+oracle 데이터베이스 접속방법
+
+접속 이름 TEAM
+
+사용자 : TEAM
+비밀번호 : 1234
+
+호스트 이름 : 192.168.10.25
+포트 : 1521
+
+SID : XE
+
+http://192.168.10.25:8081/kbay/
+
+
+
+가맹점 식별코드
+V1 : imp76617108
+V2 : store-5c23cea2-76ba-4f34-8a93-98ef718a9c9b
+
+apikey
+V1 : 6004241332626301
+
+MllisaTest 채널등록 시 KG이니시스에서 받은 키
+V2 : ZUhPSzQzQUpCN1dLa1I0RFd3Y1VuQT09
+
+apisecret
+V1 : SlmptbPS2MAqKLz4oLDcOuJT40LSWqg4klDMI5LHBwDVuWfTCjNXeRgaZA6IZ7neFUVLICuALIaK4MIg
+V2 : lFSYbcBoSanIX6Bs2q9KJiubXv0KE8LkcF6CbUwHsWW7m2CEiHW5JDRn3RcIgGw8pwB4sGP3RdMnnT1X
+
+V1사용
+채널키
+channel-key-3a155a58-0be5-4faf-a4a7-be51ae9bca23
+
+채널 속성
+결제, 본인인증
+
+결제 모듈
+본인인증 : 신용카드 본인인증 V1
+PG Provider : inicis
+
+MID
+INIBillTst
+
+
+
+데이터베이스 공유방식
+https://chatgpt.com/share/69bca092-4ee0-8001-af74-e6ce605e1380
+
+ERD클라우드
+https://www.erdcloud.com/d/85PWekzuNsw77mSuA
+
+google스프레드시트
+https://docs.google.com/spreadsheets/d/1Oecdh-Vp_bvCWpXlGr_LOpUDsw0HXk7enRJjjWW9qos/edit?gid=437118849#gid=437118849
+
+Github
+https://github.com/gjtmdaks/KBAY_Project
+
+K-BAY 사이트
+http://192.168.10.25:8081/kbay/
