@@ -20,10 +20,15 @@ IPv4 주소 . . . . . . . . . : 192.168.10.25
 https://chatgpt.com/share/69bca092-4ee0-8001-af74-e6ce605e1380
 oracle 데이터베이스 접속방법
 
+세미
 접속 이름 TEAM
-
 사용자 : TEAM
 비밀번호 : 1234
+
+파이널
+접속 이름 INVEST
+사용자 : INVEST
+비밀번호 : INVEST
 
 호스트 이름 : 192.168.10.25
 포트 : 1521
@@ -78,3 +83,14 @@ https://github.com/gjtmdaks/KBAY_Project
 
 K-BAY 사이트
 http://192.168.10.25:8081/kbay/
+
+
+redis 실행(redis/redis-server.exe )
+Ai 실행(venv\Scripts\activate)(uvicorn app.main:app)
+uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers 2 --timeout-keep-alive 30
+ctrl+shift+p를 통해 python 인터프린터를 venv로 변경해야함.
+spring 실행(서버실행)
+front 실행(npm run dev)
+
+kh증권 사이트
+http://192.168.10.25:3000/main/stock
